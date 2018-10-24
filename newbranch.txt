@@ -1,4 +1,5 @@
 commit a change to a branch
 
+<<<<<<< HEAD
 another change
  !!!
